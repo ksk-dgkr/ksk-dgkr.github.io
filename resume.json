@@ -1,211 +1,121 @@
 {
-  "displayOrder": ["shortBio","projects", "work", "education", "awards", "volunteer", "social"],
+  "displayOrder": ["shortBio", "projects", "work", "education", "awards", "social"],
   "hideDesignedBy": false,
   "personal": {
-    "name": "Navdeep Sekhon",
-    "title": "Software Developer",
-    "email": "sekhon@navdeep.co",
-    "phone": "123-456-7890",
-    "website": "http://www.navdeepsekhon.com",
-    "shortBio": "Hello! I am Navdeep Sekhon. I make stuff. Here's some of it.",
-    "location": "Delaware",
+    "name": "Kaushika Degekar Gulbarga",
+    "title": "Machine Learning Engineer | MS CS (AI) @ USC",
+    "email": "gulbarga@usc.edu",
+    "shortBio": "Hi, I'm Kaushika. I'm a Master's student in Computer Science (AI) at USC, graduating May 2027. I build and evaluate machine learning systems, from fine-tuned LLMs and deep learning experiments to multi-agent pipelines and predictive models on business data. Before USC, I was a Software Engineer at Micron Technology, where I turned engineering data into dashboards and automated workflows.",
+    "location": "Los Angeles, CA",
     "profiles": [
       {
-        "network": "Twitter",
-        "url": "http://twitter.com/navdeepsekhon9"
-      },
-      {
         "network": "github",
-        "url": "http://decompile.xyz"
+        "url": "https://github.com/ksk-dgkr"
       },
       {
         "network": "linkedin",
-        "url": "https://www.linkedin.com/in/navdeepsekhon"
-      },
-      {
-        "network": "facebook",
-        "url": "facebook.com/navdeepsekhon6"
+        "url": "https://www.linkedin.com/in/YOUR-LINKEDIN-ID"
       }
     ]
   },
   "work": [
     {
-      "employer": "ABC Company",
-      "location": "Newark, DE",
-      "title": "Job with no highlights",
-      "website": "http://google.com",
-      "dates": "July 2014 - Present",
-      "highlights": []
-    },
-    {
-      "employer": "DEF Company",
-      "location": "Newark, DE",
-      "title": "Job with no link to employer site",
-      "website": "",
-      "dates": "1900 - 1901",
+      "employer": "Micron Technology",
+      "location": "Hyderabad, India",
+      "title": "Software Engineer I",
+      "website": "https://www.micron.com",
+      "dates": "Jul 2024 - Jul 2025",
       "highlights": [
-        "Implemented new APIs",
-        "Integrated and tested existing C++ libraries with the google testing framework",
-        "Implemented and improved functionality in the backend as well as the frontend of the system",
-        "Technology: C++, SQL, PHP, ExtJS, Unix"
-      ]
-    },
-    {
-      "employer": "University Of Delaware",
-      "location": "Newark, DE",
-      "title": "Job with both link to employer site and highlights",
-      "website": "http://google.com",
-      "dates": "1899 – 1900",
-      "highlights": [
-        "Worked on Model and Simulation of DRAM-PCM Dual Architecture with Dr. Chengmo Yang",
-        "Developed simulators for various parts of the architecture",
-        "Integrated different algorithms",
-        "Tested the algorithms and analyzed the results",
-        "Presented research findings at research seminar"
+        "Automated internal engineering workflows using SQL Server and PowerShell, reducing manual effort across project management processes",
+        "Built interactive Power BI dashboards consolidating project portfolio metrics so project managers could track project health, resource utilization and delivery progress",
+        "Digitized gate review processes with Power Apps and Power Automate, streamlining approvals across cross-functional engineering teams"
       ]
     }
   ],
-  "volunteer":[
-    {
-      "organization": "Volunteer Org #1",
-      "location": "Newark, DE",
-      "title": "Volunteer without link to website",
-      "website": "",
-      "dates": "December 2015",
-      "highlights": [
-        "highlight",
-        "highlight"
-      ]
-    },
-    {
-      "organization": "Volunteer Org #2",
-      "location": "Newark, DE",
-      "title": "Volunteer without highlights",
-      "website": "https://www.udel.edu/",
-      "dates": "November 2015",
-      "highlights": [
-        
-      ]
-    },
-    {
-      "organization": "Volunteer Org #3",
-      "location": "Newark, DE",
-      "title": "Volunteer with website and highlights",
-      "website": "https://www.udel.edu/",
-      "dates": "November 2015",
-      "highlights": [
-            "highlight",
-             "highlight"
-      ]
-    }
-    ],
   "education": [
-      {
-      "institution": "University Of noGPA",
-      "major": "Computer Engineering",
-      "degree": "Masters",
-      "graduationDate": "Fall 2020"
+    {
+      "institution": "University of Southern California",
+      "major": "Computer Science (Artificial Intelligence)",
+      "degree": "Master of Science",
+      "graduationDate": "May 2027",
+      "gpa": "3.4/4.0"
     },
     {
-      "institution": "University Of Delaware",
-      "major": "Computer Engineering",
-      "degree": "Bachelor",
-      "graduationDate": "Fall 2010",
-      "gpa": "3.7/4.0"
+      "institution": "Jawaharlal Nehru Technological University, Hyderabad",
+      "major": "Computer Science & Engineering (AI & ML)",
+      "degree": "Bachelor of Technology",
+      "graduationDate": "May 2024",
+      "gpa": "9.3/10"
     }
   ],
   "projectSections": [
-       {
-      "title": "FrontEnd",
-      "projects" :[{
-        "title": "Project with bulleted description",
-        "link": "https://github.com/navdeepsekhon/AndroidWeatherApp/",
-        "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
-        "description": [
-          "Javascript framework that automatically generates a portfolio website from resume data.",
-          "Ability to create image galleries for projects.",
-          "Ability to choose the order of different sections or skip sections entirely.",
-          "Ability to have custom named sections for projects.",
-          "Supports all major social networks icon. ",
-          "The code for this entire site is generated by the framework. Nothing is hardcoded!"
-          ]
-        },
-        {
-        "title": "Project with no link",
-        "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
-        "description": [
-          "To crete a bulleted list in the pop up",
-          "Put description content within []",
-          "Each bullet item separated by comma"
-          ]
-        },
-        {
-        "title": "Project with long paragraph description",
-        "link": "https://github.com/navdeepsekhon/AndroidWeatherApp/",
-        "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
-        "description": "To create a paragraph description in the pop up, do not put content in [], just put it everything within the double quotes."
-          
-        }]
-    },
     {
-      "title": "Android",
+      "title": "Machine Learning Research",
       "projects": [
         {
-          "title": "Project with image gallery",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/AndroidWeatherApp/master/screenshots/tablet_mainscreen.png",
-          "link": "https://github.com/navdeepsekhon/AndroidWeatherApp/",
-          "description": "To create an image gallery in pop up, put the image URLs comma separated in gallery: []",
-          "gallery": [
-            "https://raw.githubusercontent.com/navdeepsekhon/AndroidWeatherApp/master/screenshots/phone_detailscreen_portrait.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/AndroidWeatherApp/master/screenshots/phone_mainscreen.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/AndroidWeatherApp/master/screenshots/user_settings_screen.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/AndroidWeatherApp/master/screenshots/tablet_mainscreen.png"
+          "title": "Medical LLM Hallucination Detection using Cross-Critique",
+          "link": "https://github.com/ksk-dgkr/YOUR-REPO",
+          "thumbnail": "images/medical-llm.png",
+          "description": [
+            "Designed a dual-agent medical QA pipeline and a controlled 4-condition experiment comparing self-critique vs. cross-critique on MedMCQA and PubMedQA",
+            "Fine-tuned Mistral-7B Generator and Critic adapters with LoRA/QLoRA (4-bit) on a single T4 GPU; trained the Critic on 50K PubMedQA claim-evidence pairs with BM25 hard negatives, reaching 79.6% held-out accuracy",
+            "Defined Correction Gain and False Correction Rate metrics; cross-critique raised accuracy to 66.3% (vs. 62.4% baseline) and cut false corrections from 14.6% to 4.9%, a statistically significant gain (p < 0.05, McNemar's test)"
           ]
         },
         {
-          "title": "No gallery, no description(?!)",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/PopMovies/master/screenshots/tablet_movie_details_landscape.PNG",
-          "link": "https://github.com/navdeepsekhon/PopMovies"
-        },
+          "title": "Activation Sparsity & Regularization in Convolutional Networks",
+          "link": "https://github.com/ksk-dgkr/Activation-Sparsity-Regularization-in-Convolutional-Networks",
+          "thumbnail": "images/activation-sparsity.png",
+          "description": [
+            "Ran a controlled study of 4 activation functions (ReLU, GELU, SiLU, SwiGLU) crossed with 3 regularizers (dropout, weight decay, stochastic depth) on ResNet-20 trained on CIFAR-100, averaging 200-epoch runs over 2 random seeds",
+            "Evaluated both clean accuracy and corruption robustness on CIFAR-100-C to analyze how activation sparsity interacts with explicit regularization",
+            "Found weight decay was the best regularizer for every activation, improving top-1 accuracy by 4.7 to 6.3 points over baseline, with a best result of 68.54% (SiLU)",
+            "Diagnosed training divergence in ReLU² models as gradient explosion across all configurations"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI Systems & NLP",
+      "projects": [
         {
-          "title": "Top Ten Songs App",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/tablet_player.PNG",
-          "link": "https://github.com/navdeepsekhon/TopTenSongsAndroidApp",
-          "description": "Android app to play current top ten songs for an artist. Supports instant search for artists. Uses spotify API. Optimized for phone and tablet.",
-          "gallery": [
-            "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/phone_initial_view.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/phone_instant_search.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/phone_artist_top_songs.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/tablet_instant_search.PNG",
-            "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/tablet_artist_top_songs.PNG",
-            "https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/tablet_player.PNG"
+          "title": "Decentralized Coordination in Multi-Agent LLM Systems",
+          "link": "https://github.com/ksk-dgkr/YOUR-REPO",
+          "thumbnail": "images/multi-agent.png",
+          "description": [
+            "Built predictive models on business datasets using H2O AutoML, cutting business insight generation time by over 95%",
+            "Engineered a decentralized multi-agent system in LangGraph with peer-to-peer coordination and no central controller, improving fault tolerance",
+            "Designed agent workflows, task routing and shared context for specialized analytics, web search and orchestration agents"
           ]
         },
         {
-          "title": "Court Counter",
-          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/CourtCounter/master/screenshots/Screenshot_2015-06-07-14-12-32.png",
-          "link": "https://github.com/navdeepsekhon/CourtCounter",
-          "description": "Android app to keep track of a basketball game score!",
-          "gallery": [
-            "https://raw.githubusercontent.com/navdeepsekhon/CourtCounter/master/screenshots/Screenshot_2015-06-07-14-12-32.png",
-            "https://raw.githubusercontent.com/navdeepsekhon/CourtCounter/master/screenshots/Screenshot_2015-06-07-14-12-43.png"
+          "title": "Patent Search Optimization",
+          "link": "https://github.com/ksk-dgkr/Patent-Search-Optimization",
+          "thumbnail": "images/patent-search.png",
+          "description": [
+            "Built a Flask web app that returns the most relevant patents for a free-text idea title and description",
+            "Extracted key phrases with TextRank (pytextrank, spaCy, NetworkX) and NLTK preprocessing to turn idea descriptions into targeted search queries",
+            "Integrated the Google Custom Search JSON API to retrieve and display matching patents"
+          ]
+        },
+        {
+          "title": "Automatic Reminder Generation System (Published)",
+          "link": "https://github.com/ksk-dgkr/Automatic-Remainder-Generation",
+          "thumbnail": "images/reminder.png",
+          "description": [
+            "Developed an NLP pipeline that detects and extracts reminder intents from real-time conversations using speech-to-text and natural language understanding",
+            "Achieved 98% reminder detection accuracy by combining AssemblyAI speech recognition with custom post-processing and intent extraction",
+            "Published in the 3rd International Conference on Cognitive and Intelligent Computing"
           ]
         }
       ]
     }
-   
   ],
   "awards": [
     {
-      "title": "Award with description",
-      "date": "March 2014",
-      "awarder": "University of Delaware Electrical and Computer Engineering Department",
-      "description": "Awarded to the team with the best senior design project within the ECE department. Project: INERTIA: Dead reckoning tracking system for application in GPS degraded environments."
-    },
-    {
-      "title": "Award without description",
-      "date": "March 2014",
-      "awarder": "University of Delaware Electrical and Computer Engineering Department"
+      "title": "Galactic Problem-Solver Award (Pre-Qualifiers)",
+      "date": "June 2022",
+      "awarder": "NASA International Space Apps Challenge"
     }
   ]
 }
